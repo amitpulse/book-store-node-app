@@ -36,7 +36,7 @@ async function startServer() {
     global.server = server;
     
   } catch (error) {
-    console.error('❌ Failed to start server:', error.message);
+    console.error('ERROR: Failed to start server:', error.message);
     process.exit(1);
   }
 }
@@ -61,7 +61,7 @@ function handleServerError(error) {
 }
 
 function gracefulShutdown(signal) {
-  console.log(`\n🔄 ${signal} received. Starting graceful shutdown...`);
+  console.log(`\n ${signal} received. Starting graceful shutdown...`);
   
   if (global.server) {
     global.server.close(() => {
