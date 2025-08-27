@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Rohit Sharma",
+    "email": "rohit.sharma@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Ananya Iyer",
+    "email": "ananya.iyer@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Arjun Verma",
+    "email": "arjun.verma@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Priya Nair",
+    "email": "priya.nair@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Karthik Reddy",
+    "email": "karthik.reddy@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Sneha Kapoor",
+    "email": "sneha.kapoor@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Vikram Singh",
+    "email": "vikram.singh@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Neha Mehta",
+    "email": "neha.mehta@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Aditya Deshmukh",
+    "email": "aditya.deshmukh@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Ritu Sharma",
+    "email": "ritu.sharma@gmail.com",
+    "password": "password123",
+    "role": "Member"
+  },
+  {
+    "name": "Amit Choudhary",
+    "email": "admin1@nalanda.com",
+    "password": "admin123",
+    "role": "Admin"
+  },
+  {
+    "name": "Naveen Srinivasan",
+    "email": "admin2@nalanda.com",
+    "password": "admin123",
+    "role": "Admin"
+  }
+]

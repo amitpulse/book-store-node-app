@@ -1,0 +1,234 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565",
+    "publicationDate": "1925-04-10",
+    "genre": "Fiction",
+    "totalCopies": 5
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084",
+    "publicationDate": "1960-07-11",
+    "genre": "Fiction",
+    "totalCopies": 8
+  },
+  {
+    "title": "Midnight's Children",
+    "author": "Salman Rushdie",
+    "isbn": "9780099578512",
+    "publicationDate": "1981-04-12",
+    "genre": "Fiction",
+    "totalCopies": 4
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "author": "Yuval Noah Harari",
+    "isbn": "9780062316097",
+    "publicationDate": "2011-02-04",
+    "genre": "Non-Fiction",
+    "totalCopies": 6
+  },
+  {
+    "title": "India After Gandhi",
+    "author": "Ramachandra Guha",
+    "isbn": "9780330505543",
+    "publicationDate": "2007-08-15",
+    "genre": "History",
+    "totalCopies": 3
+  },
+  {
+    "title": "The Discovery of India",
+    "author": "Jawaharlal Nehru",
+    "isbn": "9780195623598",
+    "publicationDate": "1946-01-01",
+    "genre": "History",
+    "totalCopies": 5
+  },
+  {
+    "title": "Brief Answers to the Big Questions",
+    "author": "Stephen Hawking",
+    "isbn": "9781984819192",
+    "publicationDate": "2018-10-16",
+    "genre": "Science",
+    "totalCopies": 7
+  },
+  {
+    "title": "A Brief History of Time",
+    "author": "Stephen Hawking",
+    "isbn": "9780553380163",
+    "publicationDate": "1988-04-01",
+    "genre": "Science",
+    "totalCopies": 6
+  },
+  {
+    "title": "The Gene: An Intimate History",
+    "author": "Siddhartha Mukherjee",
+    "isbn": "9781476733524",
+    "publicationDate": "2016-05-17",
+    "genre": "Science",
+    "totalCopies": 4
+  },
+  {
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "author": "Robert C. Martin",
+    "isbn": "9780132350884",
+    "publicationDate": "2008-08-01",
+    "genre": "Technology",
+    "totalCopies": 5
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt and David Thomas",
+    "isbn": "9780201616224",
+    "publicationDate": "1999-10-30",
+    "genre": "Technology",
+    "totalCopies": 4
+  },
+  {
+    "title": "Hooked: How to Build Habit-Forming Products",
+    "author": "Nir Eyal",
+    "isbn": "9781591847786",
+    "publicationDate": "2014-11-04",
+    "genre": "Business",
+    "totalCopies": 6
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "isbn": "9781612680194",
+    "publicationDate": "1997-04-01",
+    "genre": "Business",
+    "totalCopies": 10
+  },
+  {
+    "title": "The Power of Habit",
+    "author": "Charles Duhigg",
+    "isbn": "9780812981605",
+    "publicationDate": "2012-02-28",
+    "genre": "Self-Help",
+    "totalCopies": 8
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn": "9780735211292",
+    "publicationDate": "2018-10-16",
+    "genre": "Self-Help",
+    "totalCopies": 12
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780061122415",
+    "publicationDate": "1988-04-15",
+    "genre": "Fiction",
+    "totalCopies": 9
+  },
+  {
+    "title": "Interpreter of Maladies",
+    "author": "Jhumpa Lahiri",
+    "isbn": "9780395927205",
+    "publicationDate": "1999-06-01",
+    "genre": "Fiction",
+    "totalCopies": 5
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "isbn": "9781250301697",
+    "publicationDate": "2019-02-05",
+    "genre": "Mystery",
+    "totalCopies": 6
+  },
+  {
+    "title": "The Devotion of Suspect X",
+    "author": "Keigo Higashino",
+    "isbn": "9780312375065",
+    "publicationDate": "2005-08-29",
+    "genre": "Mystery",
+    "totalCopies": 4
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "isbn": "9780307949486",
+    "publicationDate": "2005-08-01",
+    "genre": "Mystery",
+    "totalCopies": 7
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518",
+    "publicationDate": "1813-01-28",
+    "genre": "Romance",
+    "totalCopies": 10
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "isbn": "9781501110368",
+    "publicationDate": "2016-08-02",
+    "genre": "Romance",
+    "totalCopies": 8
+  },
+  {
+    "title": "The Palace of Illusions",
+    "author": "Chitra Banerjee Divakaruni",
+    "isbn": "9780385515998",
+    "publicationDate": "2008-02-12",
+    "genre": "Fantasy",
+    "totalCopies": 5
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "isbn": "9780747532699",
+    "publicationDate": "1997-06-26",
+    "genre": "Fantasy",
+    "totalCopies": 15
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227",
+    "publicationDate": "1937-09-21",
+    "genre": "Fantasy",
+    "totalCopies": 10
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "isbn": "9780307743657",
+    "publicationDate": "1977-01-28",
+    "genre": "Horror",
+    "totalCopies": 7
+  },
+  {
+    "title": "Pet Sematary",
+    "author": "Stephen King",
+    "isbn": "9781501156700",
+    "publicationDate": "1983-11-14",
+    "genre": "Horror",
+    "totalCopies": 6
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "isbn": "9781524763138",
+    "publicationDate": "2018-11-13",
+    "genre": "Biography",
+    "totalCopies": 9
+  },
+  {
+    "title": "Wings of Fire",
+    "author": "A.P.J. Abdul Kalam",
+    "isbn": "9788173711466",
+    "publicationDate": "1999-01-01",
+    "genre": "Biography",
+    "totalCopies": 8
+  }
+]
