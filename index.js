@@ -29,10 +29,8 @@ async function startServer() {
       }
     });
 
-    // server errors handler
     server.on('error', handleServerError);
     
-    // server reference for graceful shutdown
     global.server = server;
     
   } catch (error) {

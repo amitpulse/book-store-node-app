@@ -22,7 +22,7 @@
 
 ### 1. Package Installation
 ```bash
-git clone <repo-link>
+git clone gh repo clone amitpulse/book-store-node-app
 cd task-book-store
 npm install
 ```
